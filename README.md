@@ -6,7 +6,7 @@ Right now, it doesn't seem to be possible, but this demonstrates that.
 
 ## Setup
 
-You need to populate your own `.config.js`
+You need to populate your own `/config.js`
 
 ### For app1 and app2...
 
